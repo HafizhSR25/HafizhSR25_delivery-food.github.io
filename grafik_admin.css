@@ -1,0 +1,47 @@
+.group-d2{
+    align-items: flex-start;
+    background: conic-gradient(
+    	from 180deg at 50% 50%,
+    	rgb(255, 255, 255) 0deg,
+    	rgb(255, 0, 0) 101.25deg,
+    	rgb(255,255,255) 274.82deg
+    );
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px #0000001a;
+    display: flex;
+    gap: 42px;
+    height: 350px;
+    overflow: hidden;
+    position: relative;
+    padding: 0px 150px;
+    width: 432px;
+    bottom: 400px;
+}
+
+.font-d2{
+    color: rgba(0, 0, 0, 1);
+	font-family: "Bahnschrift-SemiBold";
+	font-size: 20px;
+	font-weight: 600;
+	letter-spacing: 0;
+	line-height: normal;
+	min-height: 30px;
+	white-space: nowrap;
+    position: relative;
+	left: -120px;
+	margin-top: 15px;
+}
+
+.price{
+    text-align: center;
+	color: rgba(255, 255, 255, 1);
+	font-family: "Bahnschrift";
+	font-size: 20px;
+	font-weight: 700;
+	line-height: normal;
+	white-space: nowrap;
+    position: relative;
+	left: -430px;
+    top: 50px;
+    color: black;
+}    
